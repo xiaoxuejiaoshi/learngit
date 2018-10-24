@@ -3,4 +3,4 @@ Git is   free software distributed under the GPL
 Git has a mutable index called stage
 git tracks changes of file
 Git echo hello world
-Git is new  file made for me
+creating  a  new   branch is quick & simple
